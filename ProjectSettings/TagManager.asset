@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Trap
+  - Wall
+  - Sticky Ground
+  - Icy Ground
+  - RinoDamage
+  - Fragile Platform
+  - Invincibanane
+  - Jumpomme
+  - Kiwitesse
+  - Melon
+  - Piecerise
+  - Rino
+  - Bullet
+  - Trunk
+  - Bat
+  - Trunk_bullet
+  - Bee
+  - Quit
+  - Level 1
+  - Level 2
+  - Level 3
+  - Level 0
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1611855553
+    locked: 0
+  - name: Terrain
+    uniqueID: 4264992991
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
